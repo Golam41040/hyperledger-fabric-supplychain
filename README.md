@@ -9,3 +9,4 @@ Created 2025-08-21. Refer to course/test network instructions for full setup.
 
 ## Methods
 - InitLedger, CreateProduct, UpdateProduct, TransferOwnership, QueryProduct
+# Virtual Classroom Project
